@@ -24,7 +24,6 @@ For our project, we have used this dataset to perform **Linear Regression**, a s
 
 **Main objective:** To identify how factors such as room type, location, minimum nights, reviews, and availability influence Airbnb rental prices and to develop a Linear Regression model that predicts the price of a listing.
 
-Dataset Source: Kaggle – New York City Airbnb Open Data.
+**Dataset Source:** [Kaggle – New York City Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data/kernels?utm_source=chatgpt.com).
 
-Note: The above dataset information describes the original dataset before preprocessing. Your cleaned dataset may contain fewer records and columns.
-
+**Note:** The above dataset information describes the original dataset before preprocessing. Your cleaned dataset may contain fewer records and columns.
